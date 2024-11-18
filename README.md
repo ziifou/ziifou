@@ -2,9 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m Sif-Eddine Khelafi a computer science student
-- 🌱 I’m currently learning web development, computer System and network
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m Sif-Eddine Khelafi a full stack developer 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khelafi/) 
